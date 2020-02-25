@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "DesignOZ"
+  avatar           : "assets/images/bio.jpg"
+  bio              : "되면 하자"
   location         : "Gyeongju-si"
-  email            : "NeCoritol@gmail.com
+  email            : "NeCoritol@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
